@@ -1,0 +1,7 @@
+﻿@model IEnumerable<PartialViewPassingModel.Models.Product>
+@{
+    ViewBag.Title = "Index";
+}
+
+@Html.Partial("~/Views/Shared/_PartialView1.cshtml", Model);
+<h2>Index</h2>

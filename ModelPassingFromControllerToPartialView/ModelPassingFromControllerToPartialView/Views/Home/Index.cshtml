@@ -1,0 +1,11 @@
+﻿@model IEnumerable<ModelPassingFromControllerToPartialView.Models.Student>
+
+@{
+    ViewBag.Title = "Home Page";
+    var pro = Model;
+}
+
+<p>
+ @Html.Partial("~/Views/Shared/_Partial1.cshtml", pro)  
+</p>
+

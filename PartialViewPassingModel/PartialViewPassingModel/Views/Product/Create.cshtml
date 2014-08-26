@@ -1,0 +1,16 @@
+﻿@model PartialViewPassingModel.Models.Product
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(model => model.Name)
+    @Html.EditorFor(model => model.Name)
+    @Html.LabelFor(model => model.Price)
+    @Html.EditorFor(model => model.Price)
+    
+    <input type="submit" name="saveProduct" id="saveProduct" value="Save Product"/>
+}

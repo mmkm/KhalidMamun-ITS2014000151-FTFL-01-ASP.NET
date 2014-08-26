@@ -1,0 +1,12 @@
+﻿@model IEnumerable<ModelPassingFromControllerToPartialView.Models.Student>
+           
+@foreach (var aStudent in Model)
+{
+    <table>
+        <tr>
+            <td>@aStudent.Name</td>
+            <td>@aStudent.RegNo</td>
+        </tr>
+    </table>
+}
+
