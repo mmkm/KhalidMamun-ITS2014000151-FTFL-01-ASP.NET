@@ -1,0 +1,16 @@
+﻿@model IEnumerable<OneToMayRelationship_JQueryFiltered.Models.Section>
+           
+<table>
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Code)</th>
+        <th>@Html.DisplayNameFor(model => model.Description)</th>
+    </tr>
+@foreach (var section in Model)
+{
+    <tr>
+        <td>@Html.DisplayFor(s => section.Code)</td>
+        <td>@Html.DisplayFor(s => section.Description)</td>
+    </tr>
+}
+</table>
+

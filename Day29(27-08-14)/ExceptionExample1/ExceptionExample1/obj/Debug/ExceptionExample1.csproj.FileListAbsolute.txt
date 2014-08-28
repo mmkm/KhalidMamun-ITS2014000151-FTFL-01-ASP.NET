@@ -1,0 +1,6 @@
+E:\FTFL - batch 01 - ASP.Net MVC\Day 29. 27-Aug-2014\ExceptionExample1\ExceptionExample1\bin\Debug\ExceptionExample1.exe.config
+E:\FTFL - batch 01 - ASP.Net MVC\Day 29. 27-Aug-2014\ExceptionExample1\ExceptionExample1\bin\Debug\ExceptionExample1.exe
+E:\FTFL - batch 01 - ASP.Net MVC\Day 29. 27-Aug-2014\ExceptionExample1\ExceptionExample1\bin\Debug\ExceptionExample1.pdb
+E:\FTFL - batch 01 - ASP.Net MVC\Day 29. 27-Aug-2014\ExceptionExample1\ExceptionExample1\obj\Debug\ExceptionExample1.csprojResolveAssemblyReference.cache
+E:\FTFL - batch 01 - ASP.Net MVC\Day 29. 27-Aug-2014\ExceptionExample1\ExceptionExample1\obj\Debug\ExceptionExample1.exe
+E:\FTFL - batch 01 - ASP.Net MVC\Day 29. 27-Aug-2014\ExceptionExample1\ExceptionExample1\obj\Debug\ExceptionExample1.pdb
